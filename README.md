@@ -10,17 +10,17 @@ for example, "make query_tree"
 By typing "make clean"
 	You delete all .o files and executables.
 
-For part 1
+For part 2
 	You need a database file such as "rebase210.txt"
 	You will type "make query_tree"
 	To execute the code you will type "./query_tree rebase210.txt"
 	
-For part 2
+For part 2b
 	You will need a database file and a queries file. For example, "rebase210.txt" and sequences.txt"
 	You will type "make test_tree"
 	To execute the code you will type "./test_tree rebase210.txt sequences.txt"
 
-For part 3
+For part 3c
   Part 2 and part 2 will print the same result, but the double rotation is implement differently.
 	You will need a database file and a queries file. For example, "rebase210.txt" and sequences.txt"
 	You will type "make test_tree_mod"
